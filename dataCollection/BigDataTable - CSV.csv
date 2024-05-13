@@ -1,0 +1,81 @@
+Task #,Time to solution,Confidence,Task (correct),Help,Error,Technical Problem,AI error,Pondering,AI or Not,Timestamp,Subject #,Experience level,Age,Occupation,Experience domain
+3.1,01:00,5,5,1,0,0,N/A,0,Not,2024-04-12 13.05.15,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+4,01:15,5,5,0,0,0,N/A,15,Not,2024-04-12 13.09.40,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+2,01:30,5,4,0,1,0,N/A,0,Not,2024-04-12 13.03.00,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+4,01:40,4,5,0,0,0,N/A,0,Not,2024-04-12 14.00.49,E10,Beginner,18-25,Business Development Representative,Sales
+2,01:40,4,3,0,0,0,0,0,AI,2024-03-26 09.09.45,E1,Expert,18-25,B.sc. student,Software Development
+5.1,01:45,5,5,0,0,0,N/A,0,Not,2024-04-12 13.11.15,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+4,01:50,3,5,0,0,0,N/A,0,Not,2024-04-03 14.32.48,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+3.2,02:03,4,4,0,0,0,0,0,AI,2024-03-26 19.40.29,E2,Intermediate,26-35,Sofware developer,Software Development
+5.2,02:08,4,3,0,0,0,N/A,0,Not,2024-04-12 14.06.08,E10,Beginner,18-25,Business Development Representative,Sales
+3.1,02:10,5,5,0,0,0,N/A,28,Not,2024-04-12 11.29.20,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+1,02:13,5,4,0,0,0,N/A,0,Not,2024-04-12 13.00.00,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+3.2,02:20,4,5,0,0,0,N/A,0,Not,2024-04-03 14.26.33,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+2,02:21,3,5,1,1,,N/A,0,Not,2024-04-12 13.49.15,E10,Beginner,18-25,Business Development Representative,Sales
+4,02:25,5,5,1,0,0,0,0,AI,2024-04-12 10.55.00,E7,,,,
+1,02:35,5,5,0,0,0,N/A,0,Not,2024-04-12 13.45.39,E10,Beginner,18-25,Business Development Representative,Sales
+5.1,02:38,4,5,0,0,0,N/A,21,Not,2024-04-12 14.03.09,E10,Beginner,18-25,Business Development Representative,Sales
+3.2,02:45,5,5,0,0,0,N/A,0,Not,2024-04-12 13.06.25,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+1,02:45,5,5,0,0,0,N/A,0,Not,2024-04-03 14.15.48,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+3.1,02:49,4,5,0,0,0,0,0,AI,2024-04-12 10.43.01,E7,,,,
+4,02:49,5,5,0,0,0,0,32,AI,2024-03-26 19.43.15,E2,Intermediate,26-35,Sofware developer,Software Development
+2,03:00,4,5,0,0,0,N/A,0,Not,2024-04-03 14.19.18,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+5.2,03:01,5,5,0,0,0,N/A,32,Not,2024-04-12 13.13.17,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+2,03:05,3,5,0,0,0,N/A,8,Not,2024-04-07 17.40.45,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+3.1,03:06,3,5,0,0,0,N/A,30,Not,2024-04-12 13.52.19,E10,Beginner,18-25,Business Development Representative,Sales
+5.1,03:13,3,2,0,0,0,0,0,AI,2024-04-12 10.58.07,E7,,,,
+3.2,03:27,3,5,0,0,0,N/A,0,Not,2024-04-07 17.53.58,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+3.2,04:26,3,5,0,0,0,N/A,0,Not,2024-04-12 13.55.51,E10,Beginner,18-25,Business Development Representative,Sales
+1,04:31,5,5,2,0,0,0,44,AI,2024-04-12 10.30.04,E7,,,,
+5.3,04:34,1,2,0,0,0,N/A,69,Not,2024-04-12 14.08.35,E10,Beginner,18-25,Business Development Representative,Sales
+5.1,04:40,4,5,1,0,0,N/A,0,Not,2024-04-03 14.35.48,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+1,04:46,4,4,1,2,0,0,9,AI,2024-03-26 19.20.23,E2,Intermediate,26-35,Sofware developer,Software Development
+2,04:51,2,3,1,0,0,N/A,0,Not,2024-04-12 11.23.44,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+1,04:58,4,5,2,1,0,0,70,AI,2024-03-26 09.03.55,E1,Expert,18-25,B.sc. student,Software Development
+3.2,05:15,4,5,0,0,0,N/A,148,Not,2024-04-12 11.32.05,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+2,05:23,5,5,0,1,0,0,16,AI,2024-03-26 19.26.10,E2,Intermediate,26-35,Sofware developer,Software Development
+3.1,05:56,4,5,0,0,0,0,27,AI,2024-04-07 15.50.48,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+1,06:35,3,5,3,0,0,N/A,29,Not,2024-04-12 11.16.00,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+2,06:59,2,2,0,1,,2,6,AI,2024-04-12 10.35.15,E7,,,,
+3.2,07:05,3,5,1,0,0,0,105,AI,2024-03-26 09.17.05,E1,Expert,18-25,B.sc. student,Software Development
+1,07:09,5,5,1,0,0,1,0,AI,2024-04-07 15.32.49,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+3.1,07:35,4,5,0,0,0,0,14,AI,2024-03-26 19.32.37,E2,Intermediate,26-35,Sofware developer,Software Development
+3.1,07:54,3,5,0,0,0,1,0,AI,2024-04-12 09.59.23,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+3.2,07:55,3,3,0,0,0,1,0,AI,2024-04-12 10.46.05,E7,,,,
+5.3,08:05,5,5,0,0,0,N/A,41,Not,2024-04-12 13.16.25,E9,Expert,36-45,Product & Sales,"Software Development, Design, Data Analysis, Cybersecurity, Network Engineering, Database Management"
+5.1,08:08,2,2,0,0,0,0,55,AI,2024-03-26 19.47.38,E2,Intermediate,26-35,Sofware developer,Software Development
+1,08:13,5,4,0,1,0,N/A,46,Not,2024-04-07 17.31.02,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+3.1,08:59,5,4,0,0,0,N/A,20,Not,2024-04-07 17.44.30,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+3.1,09:20,4,5,0,0,0,N/A,35,Not,2024-04-03 14.22.58,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+1,09:23,4,5,1,0,1,0,0,AI,2024-04-12 09.35.23,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+2,09:31,5,5,0,0,0,1,10,AI,2024-04-07 15.40.38,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+2,09:55,2,5,0,0,0,0,0,AI,2024-04-12 09.48.13,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+3.2,10:15,4,5,0,0,0,0,14,AI,2024-04-07 15.56.44,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+3.1,4:45,3,3,0,1,0,0,75,AI,2024-03-26 09.12.20,E1,Expert,18-25,B.sc. student,Software Development
+4,6:15,5,5,0,1,0,0,59,AI,2024-03-26 09.25.55,E1,Expert,18-25,B.sc. student,Software Development
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E1,Expert,18-25,B.sc. student,Software Development
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E2,Intermediate,26-35,Sofware developer,Software Development
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E7,,,,
+5.3,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E1,Expert,18-25,B.sc. student,Software Development
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E2,Intermediate,26-35,Sofware developer,Software Development
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E3,Intermediate,18-25,First year student in Webprogramming on BTH,"Software Development, Design, Database Management"
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E7,,,,
+5.2,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+5.1,No Data,No Data,No Data,0,1,0,0,0,AI,2024-03-26 09.36.00,E1,Expert,18-25,B.sc. student,Software Development
+5.1,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+5.1,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+5.1,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+5.1,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
+3.2,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+4,No Data,No Data,No Data,0,0,0,N/A,0,Not,2024-04-07 17.58.08,E5,Intermediate,26-35,Backend cloud developer/cloud architect,"Software Development, Data Analysis, Database Management"
+4,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E4,Advanced,26-35,Developer at a major consultancy,"Software Development, Design, Cybersecurity, Database Management"
+4,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,AI,No Data,E6,Advanced,36-45,Software Developer backend and frontend,"Software Development, Network Engineering"
+4,No Data,No Data,No Data,No Data,No Data,No Data,N/A,No Data,Not,No Data,E8,Beginner,26-35,Financial manager,"Data Analysis, Data analys i excel"
