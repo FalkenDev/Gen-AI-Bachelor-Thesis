@@ -4,7 +4,7 @@
 
 Below is a link on the data that is used to create the Generativ AI within our bachelor thesis.
 
-[Instructions Generativ AI]("./InstructionsGenAI.md")
+[Instructions Generativ AI](./InstructionsGenAI.md)
 
 ## Author(s)
 
